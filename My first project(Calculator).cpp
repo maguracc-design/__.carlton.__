@@ -31,8 +31,9 @@ int main()
     }
     else
     {
-        cout << "Syntax Erro: ";
+        cout << "Syntax Error: ";
     }
     
 }
+
 
